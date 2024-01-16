@@ -4,7 +4,7 @@ import com.theokanning.openai.service.OpenAiService
 import com.theokanning.openai.completion.CompletionRequest
 import furhatos.flow.kotlin.*
 
-val serviceKey = "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"
+val serviceKey = ""
 
 fun getNLGResponseFromGPT(input: String, histval: Int = 10): String {
     val service = OpenAiService(serviceKey)
