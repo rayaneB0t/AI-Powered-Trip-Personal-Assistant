@@ -2,6 +2,7 @@
 
 ## Overview
 Atlas is a conversational travel assistant designed to help users plan their journeys and explore destinations. This thesis utilizes the Furhat API to create interactive and engaging conversations with users. The assistant provides information about travel destinations, tips, and allows users to express emotions through emojis.
+
 <img width="365" alt="Screenshot 2024-01-16 at 22 20 26" src="https://github.com/rayaneB0t/AI-Powered-Trip-Personal-Assistant/assets/83134555/17e4ac5f-7694-4fbd-a868-b08509e1e358">
 
 <img width="1386" alt="Screenshot 2024-01-16 at 22 24 31" src="https://github.com/rayaneB0t/AI-Powered-Trip-Personal-Assistant/assets/83134555/94b609f6-2f6d-4985-9155-1f6364392214">
