@@ -1,7 +1,7 @@
 # AI Powered Trip Personal Assistant Robot: Atlas
 
 ## Overview
-Atlas is a conversational travel assistant designed to help users plan their journeys and explore destinations. This thesis utilizes the Furhat API to create interactive and engaging conversations with users. The assistant provides information about travel destinations, tips, and allows users to express emotions through emojis.
+Atlas is a conversational travel assistant designed to help users plan their journeys and explore destinations. This thesis utilizes the Furhat API to create interactive and engaging conversations with users. The assistant provides information about travel destinations, tips, and allows users to express emotions through conversations.
 <img width="1124" alt="Screenshot 2024-01-16 at 22 27 55" src="https://github.com/rayaneB0t/AI-Powered-Trip-Personal-Assistant/assets/83134555/e9b91120-5288-42f7-b252-f7c71be1f0de">
 
 
